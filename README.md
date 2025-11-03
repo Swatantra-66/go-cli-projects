@@ -43,4 +43,9 @@ cd go-number-guessing-game
 go run main.go
 ```
 
+### 3. Reference
+
+This project is part of my learning journey in Go, inspired by  
+👉 [Number Guessing Game – roadmap.sh](https://roadmap.sh/projects/number-guessing-game)
+
 ### Thank you
