@@ -19,4 +19,11 @@
 
 ---
 
+## Time package in Go
+
+1. Worked with different time package functions(like UTC, hour, weekday,etc.)
+2. Parsed time string to a local time via default layout
+
+---
+
 ### Thank you
