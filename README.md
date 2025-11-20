@@ -26,9 +26,9 @@
 
 ---
 
-## Calulator
+## goCalulator
 
-- Created a simple calculator in Go.
+- CLI app performing basic math operations.
 
 ---
 
